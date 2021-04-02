@@ -108,12 +108,11 @@ p {
 	}
 
 }
-/* #bt{
-	display: none;
-} */
+
 @media print{
-	input[type="button"],form
-	{
-			display: none;
-	}
+    .input-fields, button{
+        display:none;
+    }
+
+ 
 }

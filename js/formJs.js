@@ -13,6 +13,3 @@ function om() {
 	document.getElementById("space").innerHTML += "Telephone: " + Telephone + "<br>";
 	document.getElementById("space").innerHTML += "E-mail: " + Email + "<br>";
 }
-function imp() {
-	window.print();
-}
